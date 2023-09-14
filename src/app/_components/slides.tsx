@@ -3,7 +3,6 @@
 
 
 import Gallery from "react-photo-gallery";
-import "react-multi-carousel/lib/styles.css";
 
 const photos = [
   { src: "1.jpg", width: 4, height: 3 },

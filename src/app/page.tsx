@@ -1,4 +1,4 @@
-
+'use client';
 
 import SlidingInterval from './_components/slides'
 
